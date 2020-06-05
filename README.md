@@ -1,11 +1,16 @@
-# system
+# 操作系统磁盘调度算法
+* FIFS
+* SSTF
+* SCAN
+* C-SCAN
 
-## Project setup
+## 项目运行步骤
+1、 
+
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+2、
 ```
 npm run serve
 ```
